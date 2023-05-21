@@ -51,3 +51,11 @@
   margin: 10px;
   border-radius: 2rem;
 }
+
+.navigation {
+  background-color: #61dafb;
+  display: flex;
+  justify-content: space-between;
+  width:80vw;
+  list-style: none;
+}
